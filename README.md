@@ -19,4 +19,4 @@ I then cut this text up into words and physically randomized them:
 # Observations
 There are hidden biases in Tzara's algorithm: longer words are more likely to be selected earlier in the poem, because larger slips of paper are more likely to be chosen by the poet. The physical randomization isn't redundant to the randomization involved in generating the sample.
 
-Because of this, and perhaps because of chance, and perhaps because the colorization didn't cause anything particularly eventful in the final product, I find the intermediate artifact more appealing than the final product.
+Perhaps because that bias makes the result look less like real English, and perhaps because of chance, and perhaps because the colorization didn't cause anything particularly eventful in the final product, I find the intermediate artifact more appealing than the final product.
